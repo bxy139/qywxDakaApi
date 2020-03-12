@@ -171,7 +171,7 @@ fi
 	msgsend_url="https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=${yuanchengaccesstoken}"
 	message_md="> **机关打卡摘要** 
 				>
-                > 人数：$xibahe人 
+                > 人数：$xixi人 
                 > 日期：$TodayTime
                 >  
                 > 打卡明细请查阅附件。 "
